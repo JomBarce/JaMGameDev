@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaMGameDev
-- 👀 I’m interested in Game Development.
-- 🌱 I’m currently learning C#.
+- 👀 I’m interested in Game and Web Development.
+- 🌱 I’m currently learning C, C#, Assembly, Python.
 - 💞️ I’m looking to collaborate on a new game.
 - 📫 How to reach me jamgamedeveloper@gmail.com
 
