@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game and Web Development.
 - 🌱 I’m currently learning C, C#, Assembly, Python, Machine Learning.
 - 💞️ I’m looking to collaborate on a new game.
-- 📫 How to reach me jamgamedeveloper@gmail.com
+- 📫 How to reach me jomerbarcenilla@gmail.com
 
 <!---
 JaMGameDev/JaMGameDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
