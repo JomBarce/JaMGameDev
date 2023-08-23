@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JaMGameDev
+- 👋 Hi, I’m @JomBarce
 - 👀 I’m interested in Game and Web Development.
 - 🌱 I’m currently learning C, C#, Assembly, Python, Machine Learning.
 - 💞️ I’m looking to collaborate on a new game.
