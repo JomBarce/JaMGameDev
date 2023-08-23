@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JomBarce
-- 👀 I’m interested in Game and Web Development.
+- 👀 I’m interested in Game, Web, and App Development.
 - 🌱 I’m currently learning C, C#, Assembly, Python, Machine Learning.
 - 💞️ I’m looking to collaborate on a new game.
 - 📫 How to reach me jomerbarcenilla@gmail.com
