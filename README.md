@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @JomBarce
 - 👀 I’m interested in Game, Web and App Development, and AI.
-- 🌱 I’m currently learning Rust, Python, and Machine Learning.
+- 🌱 I’m currently learning Typescript, Python, and Machine Learning.
 - 📫 How to reach me jomerbarcenilla@gmail.com
